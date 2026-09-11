@@ -1,4 +1,4 @@
-nombre = "Margarita"
+nombre = "Ana Maria"
 apellido = "Galan Vasquez"
 edad = 26
 estado_civil = "Soltero"
