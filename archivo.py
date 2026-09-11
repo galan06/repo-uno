@@ -1,4 +1,7 @@
 nombre = "Jose Miguel"
 apellido = "Galan Vasquez"
+edad = 26
 
-print("Hola " + nombre + " " + apellido + ", como estas?")
+print("Nombre: " + nombre)
+print("Apellido: " + apellido)
+print("Edad: " + edad)
